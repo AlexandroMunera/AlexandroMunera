@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexandro Múnera</h1>
 <h3 align="center">I'm a software developer 🧑🏻‍💻 with experience in web and mobile environments.</h3>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="Alt text" title="Image Title" style="width:40%" align="right" />
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+<br>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="Alt text" title="Image Title" width=30% align="right" />
 
 - 🔭 I’m currently working in [Globant](https://www.globant.com/)
 
@@ -14,9 +16,7 @@
 - 📫 How to reach me **alexandromunera@gmail.com**
 
 - ⚡ Fun fact **I love play Soccer and learn new things**
-
-    
-
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +24,8 @@
 <a href="https://linkedin.com/in/freud-alexandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="freud-alexandro" height="30" width="40" /></a>
 <a href="https://twitter.com/alexandromunera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexandromunera" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/alexandromunera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alexandromunera/" height="30" width="40" /></a>
+<br>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -39,8 +41,7 @@
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 </p>
-
-
+<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandromunera&show_icons=true&locale=en&layout=compact" alt="alexandromunera" />
 </p> 
