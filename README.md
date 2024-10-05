@@ -43,7 +43,7 @@
 </p>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandromunera&show_icons=true&locale=en&layout=compact" alt="alexandromunera" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandromunera&show_icons=true&locale=en&layout=compact&exclude_repo=LicoresAPP,AgendaContactosAPP,The-Musketeers" alt="alexandromunera" />
 </p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandromunera&show_icons=true&locale=en" alt="alexandromunera" /></p>
