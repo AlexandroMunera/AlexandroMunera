@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandro Múnera</h1>
-<h3 align="center">I'm a software developer with experience in web and mobile environments.</h3>
+<h3 align="center">I'm a software developer 🧑🏻‍💻 with experience in web and mobile environments.</h3>
 
-<div style="display: flex; justify-content: space-around; gap: 5px; align-items: center;">
-  <div style="width: 50%;">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="Alt text" title="Image Title" style="width:40%" align="right" />
 
 - 🔭 I’m currently working in [Globant](https://www.globant.com/)
 
@@ -15,14 +14,8 @@
 - 📫 How to reach me **alexandromunera@gmail.com**
 
 - ⚡ Fun fact **I love play Soccer and learn new things**
-  </div>
-  <div style="width: 50%;">
-    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="Alt text" title="Image Title" style="max-width:400px;" />
-  </div>
-</div>
 
-
-
+    
 
 
 <h3 align="left">Connect with me:</h3>
